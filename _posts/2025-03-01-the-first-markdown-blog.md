@@ -21,4 +21,4 @@ tags: []
 
 家里的小猫此刻正坐在我的笔电旁边，东张西望，时不时用头蹭我，好像在提醒我该睡觉了。今天捣鼓了大半天，明天还会继续调整个人网页和博客的一些配置，有点像是在拼积木，好了今天就到这，晚安。
 
-![晚安](https://www.itingwa.com/file/img/2013-10/20131031123342-MjIzNzAx_440x438.jpg "GoodNight")    
+<img src="https://i.imgur.com/ZlTP12c.jpeg" alt="GoodNight" width="350" height="200">
