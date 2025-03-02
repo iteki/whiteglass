@@ -20,8 +20,7 @@
 
 title: "Iteki's Blog"
 author: Iteki
-description:  # this means to ignore newlines until "baseurl:"
-  This is my little personal space, where I’ll share some simple thoughts from time to time. I hope you like it!
+description: This is my little personal space, where I’ll share some simple thoughts from time to time. I hope you like it!
 baseurl: "/whiteglass" # the subpath of your site, e.g. /blog
 url: "https://iteki.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
