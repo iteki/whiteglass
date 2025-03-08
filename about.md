@@ -11,3 +11,4 @@ Gender: Male\
 MBTI: ENTJ\
 FavoriteMusicGenre: R＆B, Jazz\
 Language: Chinese > Japanese > English
+Email: idi0tang@gmail.com
